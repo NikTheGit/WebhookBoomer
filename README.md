@@ -1,2 +1,2 @@
 # WebhookBoomer
-my app for boom the webhooks
+Make sure you switch the language to english to paste a webhook url
